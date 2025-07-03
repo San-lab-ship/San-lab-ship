@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:srosero@gmail.com">srosero@gmail.com</a> &nbsp;|&nbsp;
-  📱 +52 321 222 9186 &nbsp;|&nbsp;
+  📫 <a href="mailto:srosero981@gmail.com">srosero@gmail.com</a> &nbsp;|&nbsp;
   💻 <a href="https://github.com/San-lab-ship">GitHub/San-lab-ship</a>
 </p>
 
