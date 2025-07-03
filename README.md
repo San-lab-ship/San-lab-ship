@@ -15,7 +15,7 @@
 ### 💬 Sobre mí
 
 Apasionada por los datos y la tecnología, me especializo en convertir información en soluciones estratégicas para la toma de decisiones. 🔍  
-He desarrollado más de **12 proyectos aplicados** en ciencia de datos, implementando modelos de *machine learning*, análisis exploratorio de datos (EDA) y visualizaciones interactivas. 📊
+He desarrollado **12 proyectos aplicados** en ciencia de datos, implementando modelos de *machine learning*, análisis exploratorio de datos (EDA) y visualizaciones interactivas. 📊
 
 🛠️ Utilizo herramientas como **Python**, **SQL**, **Scikit-learn**, **Pandas**, **Power BI**, **Matplotlib**, **Seaborn**, y **Plotly**, y me interesa especialmente la aplicación de la inteligencia artificial en los negocios. 💡
 
@@ -45,7 +45,7 @@ Me apasiona automatizar procesos, analizar patrones y construir modelos predicti
 - Manipulación de datos (Data Wrangling)
 - Análisis estadístico y visualización
 - Machine Learning: aprendizaje supervisado, texto, visión artificial, series temporales
-- Herramientas BI: Power BI, Tableau, Excel avanzado
+- Herramientas BI: Power BI, Excel avanzado
 - Automatización de procesos y desarrollo web básico
 - Big Data y Ciberseguridad
 - Toma de decisiones basada en datos
