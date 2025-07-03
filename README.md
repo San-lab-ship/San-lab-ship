@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:srosero981@gmail.com">srosero@gmail.com</a> &nbsp;|&nbsp;
+  📫 <a href="mailto:srosero981@gmail.com">srosero981@gmail.com</a> &nbsp;|&nbsp;
   💻 <a href="https://github.com/San-lab-ship">GitHub/San-lab-ship</a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 💬 Sobre mí
 
-Apasionada por los datos y la tecnología, me especializo en convertir información en soluciones estratégicas para la toma de decisiones. 🔍  
+Apasionada por los datos y la tecnología, me especializo en convertir información en soluciones estratégicas para la toma de decisiones.  
 He desarrollado **12 proyectos aplicados** en ciencia de datos, implementando modelos de *machine learning*, análisis exploratorio de datos (EDA) y visualizaciones interactivas. 📊
 
 🛠️ Utilizo herramientas como **Python**, **SQL**, **Scikit-learn**, **Pandas**, **Power BI**, **Matplotlib**, **Seaborn**, y **Plotly**, y me interesa especialmente la aplicación de la inteligencia artificial en los negocios. 💡
