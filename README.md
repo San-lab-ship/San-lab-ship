@@ -62,10 +62,10 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=radical&hide=stars,issues,prs&border_radius=10&title_color=ffffff&icon_color=00ffcc" 
+  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_radius=10&title_color=007AFF&icon_color=007AFF" 
        alt="Sandra's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=radical&card_width=320&title_color=ffffff&icon_color=00ffcc" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=blue-green&card_width=320&title_color=007AFF&icon_color=007AFF" 
        alt="Top Languages"/>
 </p>
 
