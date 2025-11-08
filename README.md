@@ -1,5 +1,5 @@
 # 🌱 Sandra Rosero  
-### Transformando datos en decisiones inteligentes
+### Transformando Datos en Decisiones Inteligentes
 
 <p align="center">
   <img width="200" alt="image" src="https://github.com/user-attachments/assets/1786803f-6f58-4340-b698-e8099f645c94" />
