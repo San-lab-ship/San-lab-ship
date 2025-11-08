@@ -61,6 +61,8 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=default" alt="Top Languages"/>
+
 ---
 ## 📁 PROYECTOS TÉCNICOS
 
