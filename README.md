@@ -62,7 +62,7 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 </p>
 
 ---
-## PROYECTOS TÉCNICOS
+## 📁 PROYECTOS TÉCNICOS
 
 - Optimización de Recursos y Planificación de Inversión: Modelo Predictivo de Producción Petrolera
 - Estrategia Proactiva de Retención: Modelo de Detección Temprana de Fuga (Churn)
@@ -72,4 +72,5 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 - Clasificación Automática de Reseñas de Películas
 - Predicción de Demanda de Transporte Urbano
 
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés. 😊
+
