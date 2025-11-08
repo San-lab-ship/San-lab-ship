@@ -67,6 +67,7 @@ Mi objetivo es crear modelos confiables, eficientes y orientados a resultados qu
 - Detección de Fraude en Transacciones Financieras
 - Predicción de Producción Agrícola
 - Predicción de Coberturas Médicas Personalizadas
+- Predicción de Satisfacción de Clientes en Hoteles y Turismo
 
 ¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés. 😊
 
