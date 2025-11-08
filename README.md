@@ -58,7 +58,7 @@ Mi objetivo es crear modelos confiables, eficientes y orientados a resultados qu
 ## 📁 Proyectos Tecnicos
 
 - Optimización de Recursos y Planificación de Inversión: Modelo Predictivo de Producción Petrolera
-- Descifrando la Deserción: El Poder de XGBoost y SHAP para Retener Clientes Clave
+- Predicción de Fuga de Clientes Betabank
 - Minería 4.0: Optimización Predictiva de la Recuperación de Oro
 - Motor Predictivo de Recomendación de Planes Móviles para Maximizar la Migración de Clientes
 - Inteligencia de Mercado: Dashboard Interactivo para Pricing Dinámico
