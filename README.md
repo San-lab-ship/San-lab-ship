@@ -71,6 +71,7 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 - Inteligencia de Mercado: Dashboard Interactivo para Pricing Dinámico
 - Clasificación Automática de Reseñas de Películas
 - Predicción de Demanda de Transporte Urbano
+- Detección de Fraude en Transacciones Financieras
 
 ¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés. 😊
 
