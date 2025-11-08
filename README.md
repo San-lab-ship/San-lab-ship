@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Sandra Rosero 👋</h1>
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e43fc94e-8663-40ab-ae72-1c872f9d95a9" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b1821535-4a90-4550-8397-a60644e75978" />
 
 ---
 
