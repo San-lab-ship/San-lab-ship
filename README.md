@@ -1,20 +1,20 @@
-<h1 align="center">Hola, soy Sandra Rosero 👋</h1>
+# 🌱 Sandra Rosero  
+### Transformando datos en decisiones inteligentes
 
 <p align="center">
   <img width="200" alt="image" src="https://github.com/user-attachments/assets/1786803f-6f58-4340-b698-e8099f645c94" />
 </p>
 
-
 ---
 
 ### 💬 Sobre mí
 
-Como **Científica de Datos**, me especializo en transformar información en **decisiones estratégicas basadas en modelos predictivos**.  
-He ayudado a empresas a **optimizar recursos, reducir costos y mejorar la eficiencia y efectividad de sus procesos**, implementando soluciones de *machine learning*, análisis de datos y visualizaciones interactivas que generan valor tangible. 📊  
+Como Científica de Datos estoy enfocada en transformar información en conocimiento estratégico para la toma de decisiones basadas en datos.
 
-🛠️ Mis herramientas incluyen: **Python 3.10**, **Jupyter Notebook / Google Colab**, **Pandas**, **NumPy**, **PySpark**, **SQL**, **Scikit-learn**, **XGBoost**, **RandomForestRegressor**, **Joblib**, **Matplotlib**, **Seaborn**, **Plotly**, **Folium**, **Draw.io**, y **Git / GitHub**. 💡  
+Desarrollo proyectos de análisis predictivo, machine learning y visualización de datos, aplicando metodologías que permiten optimizar procesos, detectar patrones y generar información accionable.
 
-Me apasiona **automatizar procesos, analizar patrones y construir modelos predictivos** que permitan a las empresas **tomar decisiones más inteligentes, ahorrar dinero y mejorar su rendimiento operativo**. Siempre estoy aprendiendo y perfeccionando mis habilidades para ofrecer soluciones **efectivas, innovadoras y orientadas a resultados**. 🚀
+Me apasiona la automatización, el modelado estadístico y la analítica avanzada, siempre buscando aprender nuevas tecnologías y mejorar la calidad de mis soluciones.
+Mi objetivo es crear modelos confiables, eficientes y orientados a resultados que contribuyan al crecimiento y la innovación empresarial. 🚀
 
 ---
 ### 🛠️ Tecnologías:
