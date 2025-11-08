@@ -61,7 +61,13 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=default" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=radical&hide=stars,issues,prs&border_radius=10&title_color=ffffff&icon_color=00ffcc" 
+       alt="Sandra's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=radical&card_width=320&title_color=ffffff&icon_color=00ffcc" 
+       alt="Top Languages"/>
+</p>
 
 ---
 ## 📁 PROYECTOS TÉCNICOS
