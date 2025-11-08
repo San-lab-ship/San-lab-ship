@@ -14,44 +14,50 @@
 
 ### 💬 Sobre mí
 
-Apasionada por los datos y la tecnología, me especializo en convertir información en soluciones estratégicas para la toma de decisiones.  
-He desarrollado **12 proyectos aplicados** en ciencia de datos, implementando modelos de *machine learning*, análisis exploratorio de datos (EDA) y visualizaciones interactivas. 📊
+Como **científica de datos**, me especializo en transformar información en **decisiones estratégicas basadas en modelos predictivos**.  
+He ayudado a empresas a **optimizar recursos, reducir costos y mejorar la eficiencia y efectividad de sus procesos**, implementando soluciones de *machine learning*, análisis de datos y visualizaciones interactivas que generan valor tangible. 📊  
 
-🛠️ Utilizo herramientas como **Python**, **SQL**, **Scikit-learn**, **Pandas**, **Power BI**, **Matplotlib**, **Seaborn**, y **Plotly**, y me interesa especialmente la aplicación de la inteligencia artificial en los negocios. 💡
+🛠️ Mis herramientas incluyen: **Python 3.10**, **Jupyter Notebook / Google Colab**, **Pandas**, **NumPy**, **PySpark**, **SQL**, **Scikit-learn**, **XGBoost**, **RandomForestRegressor**, **Joblib**, **Matplotlib**, **Seaborn**, **Plotly**, **Folium**, **Draw.io**, y **Git / GitHub**. 💡  
 
-Me apasiona automatizar procesos, analizar patrones y construir modelos predictivos que generen valor. Siempre estoy aprendiendo y mejorando mis habilidades para ofrecer soluciones innovadoras y efectivas. 🚀
+Me apasiona **automatizar procesos, analizar patrones y construir modelos predictivos** que permitan a las empresas **tomar decisiones más inteligentes, ahorrar dinero y mejorar su rendimiento operativo**. Siempre estoy aprendiendo y perfeccionando mis habilidades para ofrecer soluciones **efectivas, innovadoras y orientadas a resultados**. 🚀
 
 ---
-
 ### 🛠️ Lenguajes y herramientas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/><br>Python</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/><br>Pandas</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/><br>NumPy</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQL"/><br>SQL</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/><br>JavaScript</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/><br>HTML5</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/><br>CSS3</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/><br>Git</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/><br>GitHub</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/><br>Linux</a>
 </p>
 
 ---
-
 ### 📚 Conocimientos destacados
 
-- Manipulación de datos (Data Wrangling)
-- Análisis estadístico y visualización
-- Machine Learning: aprendizaje supervisado, texto, visión artificial, series temporales
-- Herramientas BI: Power BI, Excel avanzado
-- Automatización de procesos y desarrollo web básico
-- Big Data y Ciberseguridad
-- Toma de decisiones basada en datos
+- **Manipulación y limpieza de datos (Data Wrangling)** para preparar información confiable.  
+- **Análisis estadístico y visualización de datos** para identificar patrones y tendencias clave.  
+- **Predicción de datos y Machine Learning**: aprendizaje supervisado, procesamiento de texto (NLP), visión por computadora y series temporales.  
+- **Herramientas de Business Intelligence**: Power BI, Excel avanzado, para generar reportes y dashboards estratégicos.  
+- **Automatización de procesos y desarrollo web básico** para optimizar flujos de trabajo.  
+- **Big Data y ciberseguridad**: gestión y análisis de grandes volúmenes de datos, garantizando protección y privacidad.  
+- **Toma de decisiones basada en datos**: implementación de modelos predictivos que mejoran la eficiencia, eficacia y rentabilidad empresarial.
 
 ---
-
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
