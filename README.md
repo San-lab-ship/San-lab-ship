@@ -41,7 +41,6 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/folium/folium-original.svg" height="30" alt="Folium"/>
 </p>
 
-
 ---
 ### 📚 Conocimientos destacados
 
@@ -63,5 +62,14 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 </p>
 
 ---
+## PROYECTOS TÉCNICOS
+
+- Optimización de Recursos y Planificación de Inversión: Modelo Predictivo de Producción Petrolera
+- Estrategia Proactiva de Retención: Modelo de Detección Temprana de Fuga (Churn)
+- Minería 4.0: Optimización Predictiva de la Recuperación de Oro
+- Motor Predictivo de Recomendación de Planes Móviles para Maximizar la Migración de Clientes
+- Inteligencia de Mercado: Dashboard Interactivo para Pricing Dinámico
+- Clasificación Automática de Reseñas de Películas
+- Predicción de Demanda de Transporte Urbano
 
 ¡Gracias por visitar mi perfil! 😊
