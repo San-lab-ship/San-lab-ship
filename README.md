@@ -1,6 +1,19 @@
 <h1 align="center">Hola, soy Sandra Rosero 👋</h1>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_radius=10&title_color=007AFF&icon_color=007AFF" 
+       alt="Sandra's GitHub Stats" />
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=San-lab-ship&theme=blue-green&date_format=j%20M%5B%20Y%5D&hide_border=true&border_radius=10&stroke=007AFF" 
+       alt="Sandra's Streak Stats" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=blue-green&card_width=320&title_color=007AFF&icon_color=007AFF" 
+       alt="Top Languages"/>
+</p>
+
+<p align="center">
   <strong>Científica de Datos & Economista</strong>  
   <br>Transformo datos en decisiones estratégicas basadas en evidencia.
 </p>
@@ -54,12 +67,6 @@ Me apasiona **automatizar procesos, analizar patrones y construir modelos predic
 
 ---
 ### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=dark" alt="Sandra's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_radius=10&title_color=007AFF&icon_color=007AFF" 
