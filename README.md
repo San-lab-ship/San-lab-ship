@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Sandra Rosero 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist & Analyst</strong>  
+  <strong>Científica de Datos & Economista</strong>  
   <br>Transformo datos en decisiones estratégicas basadas en evidencia.
 </p>
 
