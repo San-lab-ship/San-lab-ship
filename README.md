@@ -66,7 +66,7 @@ Modelos predictivos para salud y turismo
 
 ---
 ### 📈 Contribución a las empresas
-Aplicando modelos predictivos y análisis de datos, ayudo a anticipar tendencias y mejorar la eficiencia de procesos hasta en un 30%, transformando información compleja en decisiones estratégicas.
+Mis modelos predictivos transforman datos complejos en predicciones confiables, generando decisiones estratégicas, eficiencia e innovación.
 
 ---
 ### 🤝 Conectemos
