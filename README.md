@@ -22,58 +22,32 @@
 
 
 ---
-### 🧠 Áreas de especialización
+### 🛠️ Habilidades técnicas
 
-Modelos predictivos y Machine Learning supervisado
+⚡ Lenguajes de programación: Python, SQL, JavaScript, Java (Spring)
+⚡ Análisis de datos / Machine Learning: Pandas, NumPy, Scikit-learn, PyTorch, Aprendizaje profundo, MLOps
+⚡ Herramientas de visualización: Tableau, Power BI, Matplotlib, Seaborn, Streamlit
+⚡ Plataformas en la nube: Google Cloud, AWS, IBM Cloud
+⚡ Otras herramientas: Excel avanzado, Git, GitHub, Jupyter Notebook, PySpark, Modelos predictivos, IA generativa
 
-Análisis estadístico y exploratorio de datos
-
-Series temporales y predicción de demanda
-
-Procesamiento de lenguaje natural (NLP)
-
-Visualización de datos y Business Intelligence
-
-Optimización de procesos basada en datos
 ---
-### 🛠️ Tecnologías
+### 🚀 Proyectos recientes
 
-Lenguajes y ML
-Python · Pandas · NumPy · Scikit-learn · PyTorch
-
-Visualización & BI
-Power BI · Streamlit · Matplotlib · Seaborn
-
-Datos & Big Data
-SQL · PySpark
-
-Herramientas & Entorno
-Git · GitHub · Linux · Jupyter Notebook
----
-### 🚀 Proyectos destacados
 📊 Predicción de Producción Petrolera
-
-Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico, machine learning y visualizaciones interactivas para apoyar decisiones operativas.
-
-Tecnologías: Python, ML, visualización de datos
+Herramientas utilizadas: Python, Machine Learning, visualización de datos
+Resumen: Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico y visualizaciones interactivas para apoyar decisiones operativas.
 
 🚦 Predicción de Demanda de Transporte Urbano
-
-Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
-
-Tecnologías: Machine Learning, SQL, PySpark
+Herramientas utilizadas: Machine Learning, SQL, PySpark
+Resumen: Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
 
 💳 Detección de Fraude en Transacciones Financieras
-
-Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
-
-Tecnologías: Python, Scikit-learn
+Herramientas utilizadas: Python, Scikit-learn
+Resumen: Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
 
 🧠 Clasificación Automática de Reseñas de Películas (NLP)
-
-Proyecto de procesamiento de texto usando TF-IDF, Regresión Logística y modelos avanzados para análisis de sentimiento.
-
-Tecnologías: NLP, Machine Learning
+Herramientas utilizadas: NLP, Python, Machine Learning
+Resumen: Proyecto de procesamiento de texto usando TF-IDF, Regresión Logística y modelos avanzados para análisis de sentimiento.
 
 ---
 ### 📁 Otros proyectos
@@ -89,29 +63,15 @@ Predicción de demanda agrícola
 Modelos predictivos para salud y turismo
 
 ---
-### 📈 Actividad en GitHub
-
-Más de 230 contribuciones en el último año
-
-Proyectos completos con enfoque en calidad de datos, modelado y resultados
-
-Uso constante de notebooks, pipelines y visualización analítica
-
----
-### 🎯 Enfoque profesional
-
-Decisiones basadas en datos
-
-Modelos interpretables y confiables
-
-Impacto real en procesos y negocio
-
-Aprendizaje continuo y mejora técnica constante
+### 📈 🚀 Contribución a las empresas
+Aplicando modelos predictivos y análisis de datos, ayudo a anticipar tendencias y mejorar la eficiencia de procesos hasta en un 30%, transformando información compleja en decisiones estratégicas.
 
 ---
 ### 🤝 Conectemos
 
-Si te interesa colaborar, compartir ideas o explorar oportunidades en ciencia de datos y analítica avanzada, será un gusto conectar.
+Correo electrónico: san259luna@gmail.com
+LinkedIn: https://www.linkedin.com/in/sandra-rosero-b3783b372/
 
-¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés. 😊
+
+
 
