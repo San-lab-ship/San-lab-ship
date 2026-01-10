@@ -14,11 +14,11 @@
 ---
 ### 👩‍💻 Sobre mí
 
-Soy Científica de Datos especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales. Desarrollo soluciones end-to-end, desde la preparación de datos hasta la implementación de modelos orientados a resultados.
+🌍 Con experiencia en proyectos de energía, minería, transporte, finanzas, salud y retail.  
+💼 Desarrollo soluciones de ciencia de datos de extremo a extremo, desde la preparación de datos hasta la implementación de modelos orientados a resultados.  
+🎯 Especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales.  
+🌟 Apasionada por la automatización, el modelado estadístico y la construcción de modelos confiables, interpretables y escalables.
 
-He trabajado en proyectos de energía, minería, transporte, finanzas, salud y retail, aplicando modelos estadísticos y de aprendizaje automático para optimizar procesos, detectar patrones y mejorar la toma de decisiones.
-
-Me apasiona construir modelos confiables, interpretables y escalables, con un fuerte enfoque en automatización, calidad de datos y mejora continua.
 
 ---
 ### 🧠 Áreas de especialización
