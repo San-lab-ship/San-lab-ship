@@ -1,4 +1,3 @@
-<h1 align="center">🌱 Sandra Rosero</h1>
 <h3 align="center">Transformando Datos en Decisiones Inteligentes</h3>
 
 <p align="center">
@@ -7,67 +6,105 @@
 
 ---
 
-### 💬 Sobre mí
+### 👩‍💻 Sobre mí
 
-Como Científica de Datos estoy enfocada en transformar información en conocimiento estratégico para la toma de decisiones basadas en datos.
+Soy Científica de Datos especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales. Desarrollo soluciones end-to-end, desde la preparación de datos hasta la implementación de modelos orientados a resultados.
 
-Desarrollo proyectos de análisis predictivo, machine learning y visualización de datos, aplicando metodologías que permiten optimizar procesos, detectar patrones y generar información accionable.
+He trabajado en proyectos de energía, minería, transporte, finanzas, salud y retail, aplicando modelos estadísticos y de aprendizaje automático para optimizar procesos, detectar patrones y mejorar la toma de decisiones.
 
-Me apasiona la automatización, el modelado estadístico y la analítica avanzada, siempre buscando aprender nuevas tecnologías y mejorar la calidad de mis soluciones.
-Mi objetivo es crear modelos confiables, eficientes y orientados a resultados que contribuyan al crecimiento y la innovación empresarial. 🚀
-
----
-### 🛠️ Tecnologías:
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45" alt="Plotly" />
-</p>
+Me apasiona construir modelos confiables, interpretables y escalables, con un fuerte enfoque en automatización, calidad de datos y mejora continua.
 
 ---
-### 📚 Conocimientos destacados
+### 🧠 Áreas de especialización
 
-- **Manipulación y limpieza de datos (Data Wrangling)** para preparar información confiable.  
-- **Análisis estadístico y visualización de datos** para identificar patrones y tendencias clave.  
-- **Predicción de datos y Machine Learning**: aprendizaje supervisado, procesamiento de texto (NLP), visión por computadora y series temporales.  
-- **Herramientas de Business Intelligence**: Power BI, Excel avanzado, para generar reportes y dashboards estratégicos.  
-- **Automatización de procesos y desarrollo web básico** para optimizar flujos de trabajo.  
-- **Big Data y ciberseguridad**: gestión y análisis de grandes volúmenes de datos, garantizando protección y privacidad.  
-- **Toma de decisiones basada en datos**: implementación de modelos predictivos que mejoran la eficiencia, eficacia y rentabilidad empresarial.
+Modelos predictivos y Machine Learning supervisado
+
+Análisis estadístico y exploratorio de datos
+
+Series temporales y predicción de demanda
+
+Procesamiento de lenguaje natural (NLP)
+
+Visualización de datos y Business Intelligence
+
+Optimización de procesos basada en datos
+---
+### 🛠️ Tecnologías
+
+Lenguajes y ML
+Python · Pandas · NumPy · Scikit-learn · PyTorch
+
+Visualización & BI
+Power BI · Streamlit · Matplotlib · Seaborn
+
+Datos & Big Data
+SQL · PySpark
+
+Herramientas & Entorno
+Git · GitHub · Linux · Jupyter Notebook
+---
+### 🚀 Proyectos destacados
+📊 Predicción de Producción Petrolera
+
+Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico, machine learning y visualizaciones interactivas para apoyar decisiones operativas.
+
+Tecnologías: Python, ML, visualización de datos
+
+🚦 Predicción de Demanda de Transporte Urbano
+
+Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
+
+Tecnologías: Machine Learning, SQL, PySpark
+
+💳 Detección de Fraude en Transacciones Financieras
+
+Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
+
+Tecnologías: Python, Scikit-learn
+
+🧠 Clasificación Automática de Reseñas de Películas (NLP)
+
+Proyecto de procesamiento de texto usando TF-IDF, Regresión Logística y modelos avanzados para análisis de sentimiento.
+
+Tecnologías: NLP, Machine Learning
 
 ---
-### 📈 Estadísticas de GitHub
+### 📁 Otros proyectos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=San-lab-ship&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_radius=10&title_color=007AFF&icon_color=007AFF" 
-       alt="Sandra's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-lab-ship&layout=compact&theme=blue-green&card_width=320&title_color=007AFF&icon_color=007AFF" 
-       alt="Top Languages"/>
-</p>
+Optimización predictiva de recuperación de oro (Minería 4.0)
+
+Recomendación inteligente de dispositivos móviles
+
+Inteligencia de mercado y pricing dinámico
+
+Predicción de demanda agrícola
+
+Modelos predictivos para salud y turismo
 
 ---
-## 📁 Proyectos Tecnicos
+### 📈 Actividad en GitHub
 
-- Optimización de Recursos y Planificación de Inversión: Modelo Predictivo de Producción Petrolera
-- Predicción de Fuga de Clientes Betabank
-- Minería 4.0: Optimización Predictiva de la Recuperación de Oro
-- Motor Predictivo de Recomendación de Planes Móviles para Maximizar la Migración de Clientes
-- Inteligencia de Mercado: Dashboard Interactivo para Pricing Dinámico
-- Clasificación Automática de Reseñas de Películas
-- Predicción de Demanda de Transporte Urbano
-- Detección de Fraude en Transacciones Financieras
-- Predicción de Producción Agrícola
-- Predicción de Coberturas Médicas Personalizadas
-- Predicción de Satisfacción de Clientes en Hoteles y Turismo
+Más de 230 contribuciones en el último año
+
+Proyectos completos con enfoque en calidad de datos, modelado y resultados
+
+Uso constante de notebooks, pipelines y visualización analítica
+
+---
+### 🎯 Enfoque profesional
+
+Decisiones basadas en datos
+
+Modelos interpretables y confiables
+
+Impacto real en procesos y negocio
+
+Aprendizaje continuo y mejora técnica constante
+
+---
+### 🤝 Conectemos
+
+Si te interesa colaborar, compartir ideas o explorar oportunidades en ciencia de datos y analítica avanzada, será un gusto conectar.
 
 ¡Gracias por visitar mi perfil! Espero que mis proyectos sean de tu interés. 😊
 
