@@ -5,6 +5,10 @@
 </p>
 
 ---
+## 👋 Hola, soy Sandra Rosero  
+
+¡Bienvenido/a a mi perfil de GitHub!  
+Soy **Científica de Datos**, apasionada por transformar datos en conocimiento estratégico a través de modelos predictivos, machine learning y analítica avanzada.
 
 ### 👩‍💻 Sobre mí
 
