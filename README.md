@@ -65,13 +65,14 @@ Predicción de demanda agrícola
 Modelos predictivos para salud y turismo
 
 ---
-### 📈 🚀 Contribución a las empresas
+### 📈 Contribución a las empresas
 Aplicando modelos predictivos y análisis de datos, ayudo a anticipar tendencias y mejorar la eficiencia de procesos hasta en un 30%, transformando información compleja en decisiones estratégicas.
 
 ---
 ### 🤝 Conectemos
 
 Correo electrónico: san259luna@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sandra-rosero-b3783b372/
 
 
