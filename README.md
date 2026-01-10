@@ -16,8 +16,11 @@
 ### 👩‍💻 Sobre mí
 
 🌍 Con experiencia en proyectos de energía, minería, transporte, finanzas, salud y retail.  
-💼 Desarrollo soluciones de ciencia de datos de extremo a extremo, desde la preparación de datos hasta la implementación de modelos orientados a resultados.  
+
+💼 Desarrollo soluciones de ciencia de datos de extremo a extremo, desde la preparación de datos hasta la implementación de modelos orientados a resultados. 
+
 🎯 Especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales.  
+
 🌟 Apasionada por la automatización, el modelado estadístico y la construcción de modelos confiables, interpretables y escalables.
 
 ---
@@ -35,17 +38,21 @@
 ---
 ### 🚀 Proyectos recientes
 
+
 📊 Predicción de Producción Petrolera
 Herramientas utilizadas: Python, Machine Learning, visualización de datos
 Resumen: Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico y visualizaciones interactivas para apoyar decisiones operativas.
+
 
 🚦 Predicción de Demanda de Transporte Urbano
 Herramientas utilizadas: Machine Learning, SQL, PySpark
 Resumen: Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
 
+
 💳 Detección de Fraude en Transacciones Financieras
 Herramientas utilizadas: Python, Scikit-learn
 Resumen: Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
+
 
 🧠 Clasificación Automática de Reseñas de Películas (NLP)
 Herramientas utilizadas: NLP, Python, Machine Learning
