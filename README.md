@@ -23,9 +23,13 @@
 ---
 ### 🛠️ Habilidades técnicas
 ⚡ Lenguajes de programación: Python, SQL, JavaScript, Java (Spring)
+
 ⚡ Análisis de datos / Machine Learning: Pandas, NumPy, Scikit-learn, PyTorch, Aprendizaje profundo, MLOps
+
 ⚡ Herramientas de visualización: Tableau, Power BI, Matplotlib, Seaborn, Streamlit
+
 ⚡ Plataformas en la nube: Google Cloud, AWS, IBM Cloud
+
 ⚡ Otras herramientas: Excel avanzado, Git, GitHub, Jupyter Notebook, PySpark, Modelos predictivos, IA generativa
 
 ---
