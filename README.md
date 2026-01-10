@@ -10,7 +10,12 @@
   Hola, soy Sandra Rosero
 </h1>
 
-¡Bienvenido a mi perfil de GitHub! Soy **Científica de Datos y Economista**, especializada en análisis predictivo, machine learning y analítica avanzada. Me apasiona transformar datos en conocimiento estratégico para apoyar la toma de decisiones. A continuación, encontrarás más información sobre mí, mis habilidades y los proyectos en los que trabajo.
+<p align="center">
+🚀 ¡Bienvenido a mi perfil de GitHub! <br>
+Soy <b>Científica de Datos</b> y <b>Economista</b>, especializada en <b>análisis predictivo</b>, <b>Machine Learning</b> y <b>analítica avanzada</b>. <br>
+Me apasiona transformar datos en <b>conocimiento estratégico</b> para apoyar la <b>toma de decisiones</b>. <br>
+A continuación, encontrarás más información sobre mí, mis <b>habilidades</b> y los <b>proyectos</b> en los que trabajo.
+</p>
 
 ---
 ### 👩‍💻 Sobre mí
