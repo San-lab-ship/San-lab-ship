@@ -1,4 +1,6 @@
-<h3 align="center">Transformando Datos en Decisiones Inteligentes</h3>
+<p align="center">
+🎯 <b>Predicciones que Transforman Datos en Decisiones Estratégicas</b>  
+</p>
 
 <p align="center">
   <img width="200" alt="image" src="https://github.com/user-attachments/assets/1786803f-6f58-4340-b698-e8099f645c94" />
