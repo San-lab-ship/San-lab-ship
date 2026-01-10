@@ -5,11 +5,13 @@
 </p>
 
 ---
-## 👋 Hola, soy Sandra Rosero  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>  
+  Hola, soy Sandra Rosero
+</h1>
 
-¡Bienvenido/a a mi perfil de GitHub!  
-Soy **Científica de Datos**, apasionada por transformar datos en conocimiento estratégico a través de modelos predictivos, machine learning y analítica avanzada.
-
+¡Bienvenido/a a mi perfil de GitHub! Soy **Científica de Datos**, apasionada por transformar datos en conocimiento estratégico a través de modelos predictivos, machine learning y analítica avanzada.
+---
 ### 👩‍💻 Sobre mí
 
 Soy Científica de Datos especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales. Desarrollo soluciones end-to-end, desde la preparación de datos hasta la implementación de modelos orientados a resultados.
