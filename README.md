@@ -45,21 +45,21 @@ A continuación, encontrarás más información sobre mí, mis <b>habilidades</b
 ---
 ### 🚀 Proyectos recientes
 
+📱 Predicción de Portabilidad Numérica (MNP)
+Herramientas utilizadas: Azure (AI-102/DP-100), Python, Scikit-Learn, Joblib. 
+Resumen: Solución de Machine Learning bajo arquitectura Azure para predecir la migración de clientes entre operadoras (TelcoA-D). El proyecto automatiza el análisis de datos y el modelado predictivo, optimizando la retención de usuarios mediante el despliegue de modelos escalables y un manejo eficiente de errores operativos.
 
 📊 Predicción de Producción Petrolera
 Herramientas utilizadas: Python, Machine Learning, visualización de datos
 Resumen: Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico y visualizaciones interactivas para apoyar decisiones operativas.
 
-
 🚦 Predicción de Demanda de Transporte Urbano
 Herramientas utilizadas: Machine Learning, SQL, PySpark
 Resumen: Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
 
-
 💳 Detección de Fraude en Transacciones Financieras
 Herramientas utilizadas: Python, Scikit-learn
 Resumen: Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
-
 
 🧠 Clasificación Automática de Reseñas de Películas (NLP)
 Herramientas utilizadas: NLP, Python, Machine Learning
