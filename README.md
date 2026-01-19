@@ -45,9 +45,9 @@ A continuación, encontrarás más información sobre mí, mis <b>habilidades</b
 ---
 ### 🚀 Proyectos recientes
 
-📱 Predicción de Portabilidad Numérica (MNP)
+📱 Portabilidad Numérica (MNP)
 Herramientas utilizadas: Azure (AI-102/DP-100), Python, Scikit-Learn, Joblib. 
-Resumen: Modelo predictivo para anticipar la migración de clientes entre operadoras, integrando ingeniería de IA y automatización para optimizar estrategias de retención.
+Resumen: Modelo predictivo para anticipar la migración de clientes entre operadoras, integrando ingeniería de IA y automatización para optimizar estrategias.
 
 📊 Predicción de Producción Petrolera
 Herramientas utilizadas: Python, Machine Learning, visualización de datos
