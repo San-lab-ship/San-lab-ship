@@ -87,8 +87,7 @@ Mis modelos predictivos transforman datos complejos en predicciones confiables, 
 
 Correo electrónico: san259luna@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/sandra-rosero-b3783b372/
-
+LinkedIn: https://www.linkedin.com/in/sandra-rosero-data-scientist/
 
 
 
