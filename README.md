@@ -55,7 +55,7 @@ Resumen: Modelo predictivo para anticipar la migración de clientes entre operad
 
 🏨 Predicción de Satisfacción de Clientes en Hoteles y Turismo
 Herramientas utilizadas: Python, BERT, NLP, PyTorch, TensorFlow, Scikit-Learn, SQL.
-Resumen: Modelo de análisis de sentimiento para predecir satisfacción de huéspedes a partir de reseñas y factores clave de experiencia.
+Resumen: Modelo de análisis de sentimiento para predecir satisfacción de huéspedes a partir de reseñas y experiencias.
 
 🚦 Predicción de Demanda de Transporte Urbano
 Herramientas utilizadas: Machine Learning, SQL, PySpark
