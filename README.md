@@ -53,21 +53,21 @@ Resumen: Modelo para estimar default y optimizar aprobaciones maximizando rentab
 Herramientas utilizadas: Azure (AI-102/DP-100), Python, Scikit-Learn, Joblib. 
 Resumen: Modelo predictivo para anticipar la migración de clientes entre operadoras, integrando ingeniería de IA y automatización para optimizar estrategias.
 
-📊 Predicción de Producción Petrolera
-Herramientas utilizadas: Python, Machine Learning, visualización de datos
-Resumen: Modelo predictivo para estimar la producción de pozos petroleros, integrando análisis estadístico y visualizaciones interactivas para apoyar decisiones operativas.
+🏨 Predicción de Satisfacción de Clientes en Hoteles y Turismo
+Herramientas utilizadas: Python, BERT, NLP, PyTorch, TensorFlow, Scikit-Learn, SQL.
+Resumen: Modelo de análisis de sentimiento para predecir satisfacción de huéspedes a partir de reseñas y detectar factores clave de experiencia.
 
 🚦 Predicción de Demanda de Transporte Urbano
 Herramientas utilizadas: Machine Learning, SQL, PySpark
 Resumen: Modelo de series temporales para anticipar la demanda de transporte urbano y optimizar la planificación de recursos.
 
-💳 Detección de Fraude en Transacciones Financieras
-Herramientas utilizadas: Python, Scikit-learn
-Resumen: Sistema de clasificación para identificar transacciones fraudulentas y reducir riesgos financieros mediante modelos supervisados.
+🌾 Predicción de Producción Agrícola
+Herramientas utilizadas: Python, XGBoost, LightGBM, Pandas, PySpark, Plotly, Folium.
+Resumen: Modelo de regresión para estimar rendimiento agrícola y optimizar planificación logística basada en datos.
 
-🧠 Clasificación Automática de Reseñas de Películas (NLP)
-Herramientas utilizadas: NLP, Python, Machine Learning
-Resumen: Proyecto de procesamiento de texto usando TF-IDF, Regresión Logística y modelos avanzados para análisis de sentimiento.
+🚗 Predicción de Accidentes de Tránsito
+Herramientas utilizadas: Python, SQL, PySpark, Scikit-Learn, Random Forest, XGBoost, Plotly.
+Resumen: Modelo para identificar zonas de alto riesgo vial y apoyar decisiones preventivas en gestión de tráfico.
 
 ---
 ### 📁 Otros proyectos
