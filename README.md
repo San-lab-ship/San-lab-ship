@@ -47,7 +47,7 @@ A continuación, encontrarás más información sobre mí, mis <b>habilidades</b
 
 📈 Predicción y Optimización de Riesgo Crediticio en Fintech Digital
 Herramientas utilizadas: Python, Scikit-Learn, XGBoost, Pandas, NumPy, SQL, Streamlit.
-Resumen: Modelo predictivo para estimar default crediticio y optimizar aprobaciones con enfoque en maximización de rentabilidad (P&L), conectando analítica avanzada con impacto financiero medible.
+Resumen: Modelo para estimar default y optimizar aprobaciones maximizando rentabilidad (P&L) con enfoque estratégico financiero.
 
 📱 Portabilidad Numérica (MNP)
 Herramientas utilizadas: Azure (AI-102/DP-100), Python, Scikit-Learn, Joblib. 
