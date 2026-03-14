@@ -82,7 +82,7 @@ Detección de Fraude en Transacciones Financieras
 
 Fuga de Clientes (BetaBank)
 
-Recomendación de Ofertas Móviles
+Modelo Prediccion Móviles
 
 Motor de Ganancia de Vehículos
 
