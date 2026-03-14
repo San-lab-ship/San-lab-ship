@@ -45,6 +45,10 @@ A continuación, encontrarás más información sobre mí, mis <b>habilidades</b
 ---
 ### 🚀 Proyectos recientes
 
+✈️Predicción y Optimización de Flujo de Pasajeros en Aeropuertos
+Herramientas utilizadas: Python, Scikit-Learn, XGBoost, TensorFlow (LSTM), PySpark, SQL, Matplotlib.
+Resumen: Modelo de series temporales para estimar demanda y optimizar la asignación de recursos operativos, maximizando la eficiencia de la terminal ($R^2$: 0.92).
+
 📈 Predicción y Optimización de Riesgo Crediticio en Fintech Digital
 Herramientas utilizadas: Python, Scikit-Learn, XGBoost, Pandas, NumPy, SQL, Streamlit.
 Resumen: Modelo para estimar default y optimizar aprobaciones maximizando rentabilidad (P&L) con enfoque financiero.
