@@ -76,15 +76,21 @@ Resumen: Modelo para identificar zonas de alto riesgo vial y apoyar decisiones p
 ---
 ### 📁 Otros proyectos
 
-Optimización predictiva de recuperación de oro (Minería 4.0)
+Coberturas Médicas
 
-Recomendación inteligente de dispositivos móviles
+Detección de Fraude en Transacciones Financieras
 
-Inteligencia de mercado y pricing dinámico
+Fuga de Clientes (BetaBank)
 
-Predicción de demanda agrícola
+Recomendación de Planes Móviles
 
-Modelos predictivos para salud y turismo
+Motor de Ganancia de Vehículos
+
+Reseñas y Taquilla de Películas
+
+Modelo Predictivo de Recuperación de Oro
+
+Modelo Predictivo de Producción Petrolera
 
 ---
 ### 📈 Contribución a las empresas
