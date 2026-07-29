@@ -14,9 +14,7 @@
 
 <p align="center">
 🚀 ¡Bienvenido a mi perfil de GitHub! <br>
-Soy <b>Científica de Datos</b> y <b>Economista</b>, especializada en <b>análisis predictivo</b>, <b>Machine Learning</b> y <b>analítica avanzada</b>. <br>
-Me apasiona transformar datos en <b>conocimiento estratégico</b> para apoyar la <b>toma de decisiones</b>. <br>
-A continuación, encontrarás más información sobre mí, mis <b>habilidades</b> y los <b>proyectos</b> en los que trabajo.
+Soy Arquitecta de Soluciones IA/ML, Científica de Datos y Dra. en Economía, especializada en Inteligencia Artificial, Machine Learning, Big Data, MLOps, Azure, AWS, Databricks, Python y SQL. Aquí encontrarás mis proyectos, soluciones y aplicaciones de IA orientadas a la analítica avanzada y la toma de decisiones
 </p>
 
 ---
@@ -24,23 +22,25 @@ A continuación, encontrarás más información sobre mí, mis <b>habilidades</b
 
 🌍 Con experiencia en proyectos de energía, minería, transporte, finanzas, salud y retail.  
 
-💼 Desarrollo soluciones de ciencia de datos de extremo a extremo, desde la preparación de datos hasta la implementación de modelos orientados a resultados. 
+💼 Diseño e implemento arquitecturas de soluciones de IA/ML y desarrollo soluciones de ciencia de datos de extremo a extremo, desde la preparación de datos hasta el despliegue de modelos en producción.
 
-🎯 Especializada en análisis predictivo, machine learning y analítica avanzada aplicada a problemas reales.  
+🎯 Especializada en Inteligencia Artificial, Machine Learning, análisis predictivo, analítica avanzada y MLOps aplicados a problemas de negocio.
 
-🌟 Apasionada por la automatización, el modelado estadístico y la construcción de modelos confiables, interpretables y escalables.
+🌟 Apasionada por la automatización, el modelado estadístico y la construcción de soluciones escalables, confiables e interpretables.
 
 ---
 ### 🛠️ Habilidades técnicas
 ⚡ Lenguajes de programación: Python, SQL, JavaScript, Java (Spring)
 
-⚡ Análisis de datos / Machine Learning: Pandas, NumPy, Scikit-learn, PyTorch, Aprendizaje profundo, MLOps
+⚡ Inteligencia Artificial y Machine Learning: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Aprendizaje Profundo, IA Generativa, MLOps
 
-⚡ Herramientas de visualización: Tableau, Power BI, Matplotlib, Seaborn, Streamlit
+⚡ Arquitectura de Soluciones IA/ML: Diseño de arquitecturas de IA, despliegue de modelos, APIs de inferencia, MLflow, Docker, Databricks
 
-⚡ Plataformas en la nube: Google Cloud, AWS, IBM Cloud
+⚡ Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn, Streamlit
 
-⚡ Otras herramientas: Excel avanzado, Git, GitHub, Jupyter Notebook, PySpark, Modelos predictivos, IA generativa
+⚡ Plataformas Cloud: Microsoft Azure, AWS, Google Cloud, IBM Cloud
+
+⚡ Ingeniería de Datos y Herramientas: PySpark, Git, GitHub, Jupyter Notebook, Excel Avanzado, Modelos Predictivos
 
 ---
 ### 🚀 Proyectos recientes
@@ -94,7 +94,7 @@ Modelo Predictivo de Producción Petrolera
 
 ---
 ### 📈 Contribución a las empresas
-Mis modelos predictivos transforman datos complejos en predicciones confiables, generando decisiones estratégicas, eficiencia e innovación.
+Diseño arquitecturas de soluciones de IA/ML y desarrollo modelos predictivos que transforman datos complejos en decisiones estratégicas, optimizando procesos, impulsando la innovación y generando valor para las organizaciones.
 
 ---
 ### 🤝 Conectemos
