@@ -45,6 +45,14 @@ Soy Arquitecta de Soluciones IA/ML, Científica de Datos y Dra. en Economía, es
 ---
 ### 🚀 Proyectos recientes
 
+📡 Arquitectura de Soluciones Empresariales aplicada a Telecomunicaciones. Herramientas utilizadas: Microsoft Azure, Azure Data Factory, Azure IoT Hub, Databricks, Delta Lake, Azure Machine Learning, Azure OpenAI, MLflow, Azure DevOps. Resumen: Arquitectura cloud empresarial para integrar datos de redes, dispositivos IoT y sistemas operacionales, habilitando plataformas inteligentes de analítica avanzada, automatización, optimización de servicios y gestión basada en datos.
+
+🏦 Arquitectura de Soluciones Empresariales aplicada a Banca y Finanzas. Herramientas utilizadas: Microsoft Azure, Azure Data Factory, Azure Data Lake Storage Gen2, Databricks, Delta Lake, Azure Machine Learning, Azure OpenAI, MLflow, Power BI. Resumen: Arquitectura empresarial basada en datos para integrar ecosistemas financieros, habilitar inteligencia artificial, automatización de procesos, analítica avanzada, servicios digitales y toma de decisiones estratégicas.
+
+✈️ Arquitectura de Soluciones Empresariales aplicada a Industria Aérea. Herramientas utilizadas: Microsoft Azure, Azure IoT Hub, Azure Event Hub, Databricks, Delta Lake, Azure Machine Learning, Azure AI Foundry, Azure OpenAI, MLflow. Resumen: Arquitectura tecnológica para integrar datos aeronáuticos, sistemas operacionales y plataformas digitales, habilitando mantenimiento inteligente, optimización operacional, automatización y experiencias digitales avanzadas.
+
+🌱 Arquitectura de Soluciones Empresariales aplicada a Industria Agrícola. Herramientas utilizadas: Microsoft Azure, Azure IoT Hub, Azure Data Factory, Databricks, Delta Lake, Azure Machine Learning, Azure OpenAI, MLflow, Power BI. Resumen: Arquitectura AgTech para integrar datos de sensores, clima, satélites y sistemas agrícolas, construyendo una plataforma inteligente para agricultura de precisión, optimización productiva, sostenibilidad y automatización operacional.
+
 ✈️Predicción y Optimización de Flujo de Pasajeros en Aeropuertos
 Herramientas utilizadas: Python, Scikit-Learn, XGBoost, TensorFlow (LSTM), PySpark, SQL, Matplotlib.
 Resumen: Modelo de series temporales para estimar demanda y optimizar la asignación de recursos operativos, maximizando la eficiencia de la terminal ($R^2$: 0.92).
