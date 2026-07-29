@@ -1,5 +1,5 @@
 <p align="center">
-<b>Predicciones que Transforman Datos en Decisiones Estratégicas</b>  
+<b>Arquitecturas de IA que Transforman Datos en Decisiones Estratégicas</b>  
 </p>
 
 <p align="center">
